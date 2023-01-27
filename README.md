@@ -8,7 +8,7 @@ Requirement: -
 4.) Each row should be square of previous row.
 For e.g. If user input 3#3#2 and click on button output should be like this: - 
 
-2  	3	  4	   9
-4 	9	  16  29
+2  	3       4       9
+4 	9       16      29
 16	81	256	353
 22	93	276	782
